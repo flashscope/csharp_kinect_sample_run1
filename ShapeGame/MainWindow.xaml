@@ -10,9 +10,9 @@
                 <Canvas Margin="0" Name="playfield" Height="688" Width="619" SizeChanged="PlayfieldSizeChanged">
                     <Canvas.Background>
                         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                            <GradientStop Color="#D9037f38" Offset="0.238" />
-                            <GradientStop Color="#FF01ad4c" Offset="1" />
-                            <GradientStop Color="#E64fdf7f" Offset="0.811" />
+                            <GradientStop Color="#D9040833" Offset="0.238" />
+                            <GradientStop Color="#FF46BC44" Offset="1" />
+                            <GradientStop Color="#E61747B2" Offset="0.811" />
                         </LinearGradientBrush>
                     </Canvas.Background>
                     
