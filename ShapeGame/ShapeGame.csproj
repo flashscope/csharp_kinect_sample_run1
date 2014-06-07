@@ -165,6 +165,42 @@
       <Name>Microsoft.Samples.Kinect.WpfViewers</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Penguins.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image_Dummy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\goal.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\calibrate_loop.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\opening.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\result_scene.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\stage1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\stage2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\stage3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\stage4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sound\success.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
