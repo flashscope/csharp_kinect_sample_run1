@@ -61,6 +61,16 @@ namespace ShapeGame.Properties {
         }
         
         /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap calibrate {
+            get {
+                object obj = ResourceManager.GetObject("calibrate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.IO.MemoryStream과(와) 유사한 System.IO.UnmanagedMemoryStream 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.IO.UnmanagedMemoryStream calibrate_loop {
@@ -79,6 +89,16 @@ namespace ShapeGame.Properties {
         }
         
         /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap goal_image {
+            get {
+                object obj = ResourceManager.GetObject("goal_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.IO.MemoryStream과(와) 유사한 System.IO.UnmanagedMemoryStream 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.IO.UnmanagedMemoryStream Hit_2 {
@@ -90,9 +110,29 @@ namespace ShapeGame.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap Image_Dummy {
+        public static System.Drawing.Bitmap image_dummy {
             get {
-                object obj = ResourceManager.GetObject("Image_Dummy", resourceCulture);
+                object obj = ResourceManager.GetObject("image_dummy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap intro_Info {
+            get {
+                object obj = ResourceManager.GetObject("intro_Info", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap intro_Title {
+            get {
+                object obj = ResourceManager.GetObject("intro_Title", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -116,11 +156,31 @@ namespace ShapeGame.Properties {
         }
         
         /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap result_end {
+            get {
+                object obj = ResourceManager.GetObject("result_end", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.IO.MemoryStream과(와) 유사한 System.IO.UnmanagedMemoryStream 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.IO.UnmanagedMemoryStream result_scene {
             get {
                 return ResourceManager.GetStream("result_scene", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap result_title {
+            get {
+                object obj = ResourceManager.GetObject("result_title", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -140,6 +200,46 @@ namespace ShapeGame.Properties {
         public static System.IO.UnmanagedMemoryStream Squeeze {
             get {
                 return ResourceManager.GetStream("Squeeze", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap stage_start_1left {
+            get {
+                object obj = ResourceManager.GetObject("stage_start_1left", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap stage_start_2left {
+            get {
+                object obj = ResourceManager.GetObject("stage_start_2left", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap stage_start_3left {
+            get {
+                object obj = ResourceManager.GetObject("stage_start_3left", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap stage_start_4left {
+            get {
+                object obj = ResourceManager.GetObject("stage_start_4left", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -185,6 +285,16 @@ namespace ShapeGame.Properties {
         public static System.IO.UnmanagedMemoryStream success {
             get {
                 return ResourceManager.GetStream("success", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap success_image {
+            get {
+                object obj = ResourceManager.GetObject("success_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         

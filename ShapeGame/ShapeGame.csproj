@@ -201,6 +201,42 @@
   <ItemGroup>
     <None Include="sound\success.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="image\calibrate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\goal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\image_dummy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\intro_Info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\intro_Title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\result_end.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\result_title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\stage_start_1left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\stage_start_2left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\stage_start_3left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\stage_start_4left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\success.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

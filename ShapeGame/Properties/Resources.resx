@@ -124,9 +124,6 @@
   <data name="Hit_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Hit-2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Image_Dummy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Image_Dummy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Pop_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pop-5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -139,14 +136,35 @@
   <data name="Vocabulary" xml:space="preserve">
     <value>Say something out loud to control the game!     Say colors and shapes like: "Green Circles"   "Yellow Stars"   "Black Triangles"   "All Colors"     Or say commands like: "Speed Up"   "Slow Down"   "Bigger"   "Smaller"   "Stop"   "Go"   "Giant"        Or say "Reset" to start over!</value>
   </data>
+  <data name="calibrate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\calibrate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="calibrate_loop" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\sound\calibrate_loop.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="goal_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\goal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image_dummy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\image_dummy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intro_Info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\intro_Info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intro_Title" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\intro_Title.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="opening" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\sound\opening.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="result_end" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\result_end.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="result_scene" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\sound\result_scene.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="result_title" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\result_title.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="stage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\sound\stage1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -160,7 +178,22 @@
   <data name="stage4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\sound\stage4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="stage_start_1left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\stage_start_1left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stage_start_2left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\stage_start_2left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stage_start_3left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\stage_start_3left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stage_start_4left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\stage_start_4left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="success" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\sound\success.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="success_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\success.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
