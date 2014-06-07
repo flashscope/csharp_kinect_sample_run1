@@ -134,7 +134,7 @@
     <value>..\Squeeze.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Vocabulary" xml:space="preserve">
-    <value>Say something out loud to control the game!     Say colors and shapes like: "Green Circles"   "Yellow Stars"   "Black Triangles"   "All Colors"     Or say commands like: "Speed Up"   "Slow Down"   "Bigger"   "Smaller"   "Stop"   "Go"   "Giant"        Or say "Reset" to start over!</value>
+    <value> </value>
   </data>
   <data name="calibrate" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\calibrate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

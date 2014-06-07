@@ -299,7 +299,7 @@ namespace ShapeGame.Properties {
         }
         
         /// <summary>
-        ///   Say something out loud to control the game!     Say colors and shapes like: &quot;Green Circles&quot;   &quot;Yellow Stars&quot;   &quot;Black Triangles&quot;   &quot;All Colors&quot;     Or say commands like: &quot;Speed Up&quot;   &quot;Slow Down&quot;   &quot;Bigger&quot;   &quot;Smaller&quot;   &quot;Stop&quot;   &quot;Go&quot;   &quot;Giant&quot;        Or say &quot;Reset&quot; to start over!과(와) 유사한 지역화된 문자열을 찾습니다.
+        ///    과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Vocabulary {
             get {
